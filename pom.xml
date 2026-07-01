@@ -55,7 +55,7 @@
 			<artifactId>spring-boot-starter-hateoas</artifactId>
 		</dependency>
 
-		<!-- OAS Swagger -->
+		<!-- OAS - Swagger -->
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
